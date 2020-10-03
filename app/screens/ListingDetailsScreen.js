@@ -25,7 +25,7 @@ export default function ListingDetailsScreen({ route }) {
         <Text style={styles.price}>{listing.price}</Text>
         <View style={styles.userContainer}>
           <ListItem
-            image={require("../assets/chair.jpg")}
+            image={require("../assets/icon.png")}
             title="Mosh Hamedani"
             subTitle="5 listings"
           />
